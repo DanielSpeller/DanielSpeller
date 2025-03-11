@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Student currently studying physics</h3>
+<h3 align="center">Student currently studying Physics at University of Leeds</h3>
 
 - 📫 How to reach me **thedanspeller@gmail.com**
 
